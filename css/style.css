@@ -13,7 +13,7 @@ a.brand img {
 }
 /***** Profile *****/
 	.profile h1 {
-	color:#39d084;
+	color:#b7d039;
 	font-weight: normal;
 }
 .profile h3 {
@@ -33,7 +33,7 @@ a.hire-me {
 	display: inline-block;
  *display: inline;
 	padding:20px 60px;
-	background:#39d084;
+	background:#d0bc39;
 	color:#fff;
 	text-transform:uppercase;
 	font-size:26px;
